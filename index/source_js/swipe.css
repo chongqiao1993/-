@@ -1,0 +1,14 @@
+.swipe{
+	overflow: hidden;
+	position:relative;
+	
+}
+.swipe_wrap{
+	position: relative;
+	overflow: hidden;
+}
+.swipe_wrap div{
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
